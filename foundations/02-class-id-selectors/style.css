@@ -1,0 +1,22 @@
+* {
+  font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+.the-pink {
+  background-color: pink;
+}
+
+#big-blue {
+  color: blue;
+  font-size: 36px;
+}
+
+.cooler {
+  font-size: 24px;
+}
+
+#greener {
+  background-color: greenyellow;
+  font-size: 24px;
+  font-weight: bold;
+}
