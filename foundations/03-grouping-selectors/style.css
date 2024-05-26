@@ -1,0 +1,15 @@
+.the-first {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+}
+
+.the-second {
+  background-color: yellow;
+}
+
+.the-first,
+.the-second {
+  font-size: 28px;
+  font-family: Helvetica, 'Times New Roman', sans-serif;
+}
